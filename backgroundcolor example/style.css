@@ -1,0 +1,26 @@
+body{
+	font:sans-serif;
+	color: rgba(0, 0, 0, 5.0);
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .5em;
+	top: 15%;
+	background: linear-gradient(to right,skyblue,deepskyblue);
+
+}
+
+h1{
+	font: sans-serif;
+	color: rgba(0, 0, 0, 1.5);
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+}
+h3{
+	font: sans-serif;
+	color: rgba(0, 0, 0, 1.0);
+	text-align: center;
+	text-transform: uppercase;
+	width: 100%;
+}
+}
